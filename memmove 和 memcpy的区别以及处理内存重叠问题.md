@@ -49,7 +49,7 @@ memmove函数返回一个指向dest的指针。  从上面的描述中可以看�
 
 内存覆盖的情形有以下两种: 
 
-![](F:\F\Interview Question\image\7.png)
+![](./image/7.png)
 
 先看memcpy()和memmove()这两个函数的实现： 
 
