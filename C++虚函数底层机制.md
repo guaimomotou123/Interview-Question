@@ -217,7 +217,8 @@ int main()
 }
 ```
 
-![](F:\F\Interview Question\image\5.png)
+![](./image/5.png)
+
 
 从上表可以看出：
 
